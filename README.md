@@ -14,12 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Seung MIn's Github&fontSize=50" />
 
+<h3 align="center"><b>📚 SERVER  📚</b></h3>
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/docker-##2496ED?style=for-the-badge&logo=docker&logoColor=white">
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+
+<h3 align="center"><b>📚 DataBase 📚</b></h3>
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpin87&show_icons=true&theme=radical)
+<h3 align="center"><b>📚 Languages 📚</b></h3>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpin87&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alpin87)](https://solved.ac/alpin87/)
