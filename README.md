@@ -13,22 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <h3 align="center"><b>📚 SERVER  📚</b></h3>
 <p align="center">
+<a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
 </p>
+<br>
 
-<p align="center">
 <h3 align="center"><b>📚 DataBase 📚</b></h3>
+<p align="center">
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 </p>
-
-<p align="center">
+<br>
 <h3 align="center"><b>📚 Languages 📚</b></h3>
+<p align="center">
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 </p>
 
