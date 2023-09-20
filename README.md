@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/alpin87/alpin87" target="_blank" align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <a href="https://github.com/alpin87/alpin87" target="_blank" align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpin87&show_icons=true&theme=radical)
-<br>
+<p align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alpin87)](https://solved.ac/alpin87/)
+</p>
+<br>
+
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpin87&show_icons=true&theme=radical)
+</p>
