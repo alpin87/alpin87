@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seung Min's Github&fontSize=50" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 <!--
 **alpin87/alpin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
