@@ -35,6 +35,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/alpin87/alpin87" target="_blank" align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 </p>
 <br>
-<br>
-![seungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpin87&show_icons=true&theme=radical)
 
