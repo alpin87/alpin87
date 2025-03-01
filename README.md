@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-<h3 align="center"><b>📚 SERVER  📚</b></h3>
+<h3 align="center"><b>⚡ SERVER  ⚡</b></h3>
 <p align="center">
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
 <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
