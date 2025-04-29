@@ -1,4 +1,4 @@
- ㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅇㄴㅁㅌ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SeungMin's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SeungMin's%20GitHub&fontSize=70&animation=scaleIn)
 <!--
 **alpin87/alpin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
