@@ -48,5 +48,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/alpin87/alpin87" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
+## 🚀 Open Source Contributions
+
+| Project | Type | Description | PR |
+| :--- | :---: | :--- | :---: |
+| **[Spring Security](https://github.com/spring-projects/spring-security)** | 🔧 Build/CI | `spring-security-acl` 모듈의 Javadoc 경고 해결 및 **Zero Warnings 강제화 플러그인 적용** | **[#18493](https://github.com/spring-projects/spring-security/pull/18493)** |
+
 
 
