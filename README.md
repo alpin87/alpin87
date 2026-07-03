@@ -85,6 +85,16 @@
 
 <br>
 
+## 🌱 Side Project
+
+<p align="center">
+  <a href="https://github.com/dongsooop">
+    <img src="assets/project-dongsoop.svg" alt="동숲 — 동양미래대학교 통합 커뮤니티 서비스 (운영 중)" width="850"/>
+  </a>
+</p>
+
+<br>
+
 <!-- Commit activity graph (animated) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpin87&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&line=36BCF7&point=FFFFFF" alt="Contribution Activity Graph"/>
