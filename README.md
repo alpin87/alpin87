@@ -63,14 +63,12 @@
 
 <br>
 
-## 🌌 3D Contributions
+## 🌱 Side Project
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
-    <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="850">
-  </picture>
+  <a href="https://github.com/dongsooop">
+    <img src="assets/project-dongsoop.svg" alt="동숲 — 동양미래대학교 통합 커뮤니티 서비스 (운영 중)" width="850"/>
+  </a>
 </p>
 
 <br>
@@ -85,12 +83,14 @@
 
 <br>
 
-## 🌱 Side Project
+## 🌌 3D Contributions
 
 <p align="center">
-  <a href="https://github.com/dongsooop">
-    <img src="assets/project-dongsoop.svg" alt="동숲 — 동양미래대학교 통합 커뮤니티 서비스 (운영 중)" width="850"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="850">
+  </picture>
 </p>
 
 <br>
