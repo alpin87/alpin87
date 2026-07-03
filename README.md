@@ -111,12 +111,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpin87&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&line=36BCF7&point=FFFFFF" alt="Contribution Activity Graph"/>
 </p>
 
-<!-- Contribution snake -->
+<!-- Pacman contribution graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpin87/alpin87/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpin87/alpin87/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/alpin87/alpin87/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpin87/alpin87/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpin87/alpin87/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alpin87/alpin87/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
