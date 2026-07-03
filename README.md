@@ -83,26 +83,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpin87&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpin87&theme=tokyonight" alt="Stats"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpin87&theme=tokyonight&utcOffset=9" alt="Commit Time (KST)"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alpin87&theme=tokyonight" alt="Top Languages by Repo"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alpin87&theme=tokyonight" alt="Top Languages by Commit"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpin87&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
-</p>
-
 <!-- Commit activity graph (animated) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpin87&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&line=36BCF7&point=FFFFFF" alt="Contribution Activity Graph"/>
