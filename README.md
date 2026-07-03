@@ -63,7 +63,7 @@
 
 <br>
 
-## 🌱 Side Project
+## 🌱 Project
 
 <p align="center">
   <a href="https://github.com/dongsooop">
