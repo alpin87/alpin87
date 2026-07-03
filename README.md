@@ -1,6 +1,3 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SeungMin%20Baek&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Serverless%20%E2%80%A2%20Full-stack&descSize=20&descAlignY=58)
-
 <!-- Terminal hero (custom animated SVG, self-hosted) -->
 <p align="center">
   <img src="assets/hero-terminal.svg" alt="terminal intro" width="850"/>
