@@ -71,6 +71,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/KJLBK/danum-backend">
+    <img src="assets/project-danum.svg" alt="다넘 — AI와 이웃이 함께하는 실시간 Q&A 커뮤니티 (2024 졸업작품)" width="850"/>
+  </a>
+</p>
+
 <br>
 
 ## 🌟 Open Source Contributions
