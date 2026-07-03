@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" font-family="SFMono-Regular, Consolas, Menlo, 'Courier New', monospace">
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a371f7">
+        <animate attributeName="stop-color" values="#a371f7;#36BCF7;#39d353;#a371f7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#39d353;#a371f7;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="type1">
+      <rect x="38" y="78" width="0" height="26">
+        <animate attributeName="width" from="0" to="150" dur="0.6s" begin="0.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="type2">
+      <rect x="38" y="148" width="0" height="26">
+        <animate attributeName="width" from="0" to="210" dur="0.7s" begin="2.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="type3">
+      <rect x="38" y="218" width="0" height="26">
+        <animate attributeName="width" from="0" to="150" dur="0.6s" begin="4.0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="3" y="3" width="894" height="324" rx="16" fill="#0d1117" stroke="url(#border)" stroke-width="2.5"/>
+
+  <!-- title bar -->
+  <circle cx="30" cy="32" r="7" fill="#ff5f56"/>
+  <circle cx="54" cy="32" r="7" fill="#ffbd2e"/>
+  <circle cx="78" cy="32" r="7" fill="#27c93f"/>
+  <text x="450" y="37" text-anchor="middle" font-size="13" fill="#8b949e">seungmin@blocks: ~</text>
+  <line x1="3" y1="54" x2="897" y2="54" stroke="#21262d" stroke-width="1"/>
+
+  <!-- $ whoami -->
+  <g clip-path="url(#type1)">
+    <text x="38" y="98" font-size="17"><tspan fill="#39d353">$</tspan><tspan fill="#e6edf3" dx="10">whoami</tspan></text>
+  </g>
+  <text x="38" y="128" font-size="16" fill="#79c0ff" opacity="0">
+    SeungMin Baek — Backend Engineer · link-in-bio commerce platform
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.4s" fill="freeze"/>
+  </text>
+
+  <!-- cmd: stack now -->
+  <g clip-path="url(#type2)">
+    <text x="38" y="168" font-size="17"><tspan fill="#39d353">$</tspan><tspan fill="#e6edf3" dx="10">stack --now</tspan></text>
+  </g>
+  <text x="38" y="198" font-size="16" opacity="0">
+    <tspan fill="#3178c6">TypeScript</tspan><tspan fill="#484f58"> · </tspan><tspan fill="#e6edf3">Next.js</tspan><tspan fill="#484f58"> · </tspan><tspan fill="#ff9900">AWS Serverless</tspan><tspan fill="#484f58"> · </tspan><tspan fill="#527fff">DynamoDB</tspan><tspan fill="#484f58"> · </tspan><tspan fill="#36BCF7">OpenSearch</tspan><tspan fill="#484f58"> · </tspan><tspan fill="#ff4438">Redis</tspan>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.2s" fill="freeze"/>
+  </text>
+
+  <!-- $ uptime -->
+  <g clip-path="url(#type3)">
+    <text x="38" y="238" font-size="17"><tspan fill="#39d353">$</tspan><tspan fill="#e6edf3" dx="10">uptime</tspan></text>
+  </g>
+  <text x="38" y="268" font-size="16" fill="#d2a8ff" opacity="0">
+    ⚡ shipping since 2018 — 30+ Lambdas · Step Functions Saga in production
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.9s" fill="freeze"/>
+  </text>
+
+  <!-- blinking cursor -->
+  <text x="38" y="304" font-size="17" fill="#39d353">$</text>
+  <rect x="58" y="290" width="10" height="18" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.5;0.55;1" dur="1.2s" begin="5.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

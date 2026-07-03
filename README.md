@@ -1,11 +1,9 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SeungMin%20Baek&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Serverless%20%E2%80%A2%20Full-stack&descSize=20&descAlignY=58)
 
-<!-- Typing intro -->
+<!-- Terminal hero (custom animated SVG, self-hosted) -->
 <p align="center">
-  <a href="https://github.com/alpin87">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+commerce+on+AWS+Serverless+%E2%9A%A1;TypeScript+%2B+Next.js+%2B+DynamoDB;From+Spring+Boot+to+Event-Driven+Architecture" alt="Typing SVG" />
-  </a>
+  <img src="assets/hero-terminal.svg" alt="terminal intro" width="850"/>
 </p>
 
 <p align="center">
@@ -68,6 +66,18 @@
 
 <br>
 
+## 🌌 3D Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="850">
+  </picture>
+</p>
+
+<br>
+
 ## 🌟 Open Source Contributions
 
 | Project | Type | Description | PR |
@@ -95,3 +105,20 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alpin87&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </p>
+
+<!-- Commit activity graph (animated) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpin87&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&line=36BCF7&point=FFFFFF" alt="Contribution Activity Graph"/>
+</p>
+
+<!-- Contribution snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpin87/alpin87/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpin87/alpin87/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/alpin87/alpin87/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
