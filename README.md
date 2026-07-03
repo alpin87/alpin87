@@ -77,9 +77,11 @@
 
 ## 🌟 Open Source Contributions
 
-| Project | Type | Description | PR |
-| :--- | :---: | :--- | :---: |
-| **[Spring Security](https://github.com/spring-projects/spring-security)** | 🔧 Build/CI | `spring-security-acl` 모듈의 Javadoc 경고 해결 및 **Zero Warnings 강제화 플러그인 적용** | **[#18493](https://github.com/spring-projects/spring-security/pull/18493)** |
+<p align="center">
+  <a href="https://github.com/spring-projects/spring-security/pull/18493">
+    <img src="assets/oss-spring-security.svg" alt="Spring Security PR #18493 — Fix Javadoc warnings in spring-security-acl (merged)" width="850"/>
+  </a>
+</p>
 
 <br>
 
