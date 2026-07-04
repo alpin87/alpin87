@@ -14,7 +14,6 @@
 - 🔭 **링크 인 바이오 커머스 플랫폼**을 만들고 있습니다 — Next.js 모노레포 + AWS 서버리스
 - ⚡ 주문/결제를 **Step Functions Saga 패턴**으로, 검색을 **DynamoDB → EventBridge → OpenSearch** 파이프라인으로 처리합니다
 - 🌱 Java/Spring 백엔드에서 출발해 지금은 **TypeScript 풀스택 + 이벤트 드리븐 아키텍처**에 집중하고 있습니다
-- 🛠 Lambda 30여 개를 운영하며 DLQ/Sentry/CloudWatch 기반 모니터링 체계를 다듬는 중입니다
 
 <br>
 
