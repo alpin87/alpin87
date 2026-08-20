@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="ossBorder2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3fb950">
+        <animate attributeName="stop-color" values="#3fb950;#36BCF7;#8250df;#3fb950" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#8250df;#3fb950;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="3" y="3" width="894" height="144" rx="16" fill="#0d1117" stroke="url(#ossBorder2)" stroke-width="2.5"/>
+
+  <!-- issue-opened icon -->
+  <g stroke="#3fb950" stroke-width="4" fill="none">
+    <circle cx="79" cy="75" r="26"/>
+    <circle cx="79" cy="75" r="7" fill="#3fb950" stroke="none"/>
+  </g>
+
+  <!-- repo -->
+  <text x="140" y="48" font-size="14" fill="#8b949e">
+    <tspan fill="#39d353">◆</tspan>
+    <tspan dx="6">spring-projects / spring-batch</tspan>
+  </text>
+
+  <!-- issue title -->
+  <text x="140" y="80" font-size="20" font-weight="700" fill="#e6edf3">ChunkOrientedStep scan mode silently drops items</text>
+
+  <!-- description -->
+  <text x="140" y="112" font-size="14" fill="#8b949e">
+    스캔 모드의 ChunkListener 계약 위반과 아이템 유실 버그 규명
+    <tspan dx="12" fill="#f85149">type: bug</tspan>
+    <tspan dx="8" fill="#484f58">·</tspan>
+    <tspan dx="8" fill="#36BCF7">in: core</tspan>
+  </text>
+
+  <!-- open pill -->
+  <g>
+    <rect x="742" y="42" width="112" height="34" rx="17" fill="#238636">
+      <animate attributeName="opacity" values="1;0.75;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="798" y="64" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">OPEN</text>
+  </g>
+  <text x="798" y="100" text-anchor="middle" font-size="13" fill="#8b949e">#5493 · 2026.08</text>
+</svg>
