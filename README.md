@@ -71,11 +71,13 @@
 
 ## 🌱 Project
 
+<!-- Tempick — 레포 공개 전까지 비활성화
 <p align="center">
   <a href="https://github.com/coredev-official/multi-link">
     <img src="assets/project-multilink.svg" alt="Tempick — 블록 기반 멀티링크 플랫폼 (진행 중)" width="850"/>
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com/dongsooop">
