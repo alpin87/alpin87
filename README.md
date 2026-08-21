@@ -51,6 +51,13 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b>💎 Ruby on Rails</b></td>
+    <td align="center">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ruby,rails,postgres&theme=dark" alt="Ruby, Rails, PostgreSQL"/></a>
+      <br><sub><code>Hotwire</code> · <code>Solid Queue / Cache / Cable</code> · <code>Kamal</code> · <code>Neon PostgreSQL</code></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>🕰 Previously</b></td>
     <td align="center">
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,linux&theme=dark" alt="Java, Spring, MySQL, Docker, Linux"/></a>
@@ -63,6 +70,12 @@
 <br>
 
 ## 🌱 Project
+
+<p align="center">
+  <a href="https://github.com/coredev-official/multi-link">
+    <img src="assets/project-multilink.svg" alt="Tempick — 블록 기반 멀티링크 플랫폼 (진행 중)" width="850"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/dongsooop">
