@@ -103,7 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/spring-projects/spring-batch/issues/5493">
-    <img src="assets/oss-spring-batch.svg" alt="Spring Batch Issue #5493 — ChunkOrientedStep scan mode silently drops items (open)" width="850"/>
+    <img src="assets/oss-spring-batch.svg" alt="Spring Batch Issue #5493 — ChunkOrientedStep scan mode silently drops items (closed)" width="850"/>
   </a>
 </p>
 
