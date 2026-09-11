@@ -102,6 +102,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/spring-projects/spring-data-relational/pull/2367">
+    <img src="assets/oss-spring-data-relational.svg" alt="Spring Data Relational PR #2367 — Fix @InsertOnlyProperty handling for embedded properties (merged, backported to 4.0.8)" width="850"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/spring-projects/spring-batch/issues/5493">
     <img src="assets/oss-spring-batch.svg" alt="Spring Batch Issue #5493 — ChunkOrientedStep scan mode silently drops items (fixed in 6.0.6)" width="850"/>
   </a>
